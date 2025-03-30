@@ -3,8 +3,7 @@
 ## Env Setup
 
 ```bash
-cp env.template.sh env.sh
-source ./env.sh
+cp .env.template .env
 ```
 
 ## versions
