@@ -32,3 +32,15 @@ graph TD;
 	classDef first fill-opacity:0
 	classDef last fill:#bfb6fc
 ```
+
+# Docker
+
+## build
+```bash
+docker build -t nyang8ja .
+```
+
+## run
+```bash
+docker run -d -p 8000:8000 --name nyang8ja-container nyang8ja
+```
