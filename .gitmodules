@@ -1,0 +1,3 @@
+[submodule "nyang8ja-config"]
+	path = nyang8ja-config
+	url = https://github.com/NyangFate/nyang8ja-config.git
